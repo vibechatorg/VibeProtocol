@@ -1,3 +1,11 @@
+<p align="center"><a href="https://vibechat.nl" target="_blank"><img src="https://cdn.discordapp.com/attachments/1230609534297571598/1230619097562353714/vibebanner.png?ex=6633fa58&is=66218558&hm=4347ed1662fb5fde16b3e85dec9b327616cd8275ba6975bfcf2bd88c8e1c7d67&" width="400" alt="Laravel Logo"></a></p>
+
+<p align="center">
+<img alt="Crates.io Version" src="https://img.shields.io/crates/v/vibeprotocol">
+<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/vibechatorg/VibeProtocol/.github%2Fworkflows%2Frust.yml">
+</p>
+
+
 # VibeProtocol
 
 VibeProtocol is a fast and secure encryption library for Rust, providing end-to-end encryption with a focus on performance and security. It combines the simplicity of the Caesar cipher with the robustness of libsodium's encryption mechanisms and base64 encoding.
