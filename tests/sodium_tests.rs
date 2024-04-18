@@ -1,6 +1,6 @@
 #[cfg(test)]
 mod sodium_tests {
-    use crate::sodium_wrapper::{encrypt_sodium, decrypt_sodium};
+    use VibeProtocol::sodium_wrapper::{encrypt_sodium, decrypt_sodium};
 
     #[test]
     fn test_encrypt_and_decrypt_sodium() {

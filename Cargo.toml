@@ -1,0 +1,14 @@
+[package]
+name = "VibeProtocol"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sympact06"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+base64 = "0.22.0"
+sodiumoxide = "0.2.7"
+
+[lib]
+path = "src/lib.rs"

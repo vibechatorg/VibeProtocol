@@ -1,6 +1,6 @@
 #[cfg(test)]
 mod base64_tests {
-    use crate::base64_wrapper::{encode_base64, decode_base64};
+    use VibeProtocol::base64_wrapper::{encode_base64, decode_base64};
 
     #[test]
     fn test_encode_and_decode_base64() {

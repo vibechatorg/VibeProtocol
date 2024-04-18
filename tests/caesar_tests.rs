@@ -1,6 +1,6 @@
 #[cfg(test)]
 mod caesar_tests {
-    use crate::caesar::{encrypt_caesar, decrypt_caesar};
+    use VibeProtocol::caesar::{encrypt_caesar, decrypt_caesar};
 
     #[test]
     fn test_encrypt_caesar() {
