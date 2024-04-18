@@ -20,11 +20,11 @@ VibeProtocol is a fast and secure encryption library for Rust, providing end-to-
 
 ## Quick Start
 
-Add VibeProtocol to your `Cargo.toml`:
+Run the following command to add VibeProtocol
 
-```toml
-[dependencies]
-VibeProtocol = "0.1.0"
+
+```bash
+cargo add VibeProtocol
 ```
 
 ## Use VibeProtocol in your project:
@@ -42,6 +42,9 @@ fn main() {
     assert_eq!(message, decrypted_message);
 }
 ```
+
+## Documentation
+Visit the [VibeProtocol documentation](https://docs.rs/VibeProtocol/latest/VibeProtocol/) for more information.
 ## Contributing
 We welcome contributions! Please feel free to submit a pull request.
 
