@@ -2,9 +2,10 @@
 name = "VibeProtocol"
 version = "0.1.0"
 edition = "2021"
-authors = ["Sympact06"]
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Olivier Flentge <opensource@aero.nu>"]
+description = "Vibe Protocol is a secure, decentralized, and privacy-focused messaging protocol. Its designed using Sodium, Base64, and other cryptographic libraries to ensure the highest level of security and privacy."
+license = "MIT"
+repository = "https://github.com/vibechatorg/VibeProtocol"
 
 [dependencies]
 base64 = "0.22.0"
